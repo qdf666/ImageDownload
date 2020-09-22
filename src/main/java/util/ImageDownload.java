@@ -10,9 +10,8 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.List;
 
+//更改代码使用sourcetree提交
 public class ImageDownload {
-
-
 
     public static void main(String[] args) throws Exception {
         ExcelReader reader = ExcelUtil.getReader("D:\\Users\\Desktop\\taobaoimage.xls");
